@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dompurify": "^2.2.9",
+    "dotenv": "^10.0.0",
+    "jsdom": "^16.6.0",
+    "marked": "^2.1.2",
+    "slugify": "^1.5.3"
+  }
+}
